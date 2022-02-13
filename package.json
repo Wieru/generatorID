@@ -1,0 +1,7 @@
+{
+  "name": "@wieru/randomid-generator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "author": "Szymon Wierucki <szymon.wierucki@gmail.com>",
+  "license": "MIT"
+}
